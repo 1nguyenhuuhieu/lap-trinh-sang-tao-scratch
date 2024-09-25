@@ -1,5 +1,7 @@
 10 câu hỏi quiz cho **Bài giảng 1** của khóa học "Lập trình sáng tạo với Scratch":
 
+Link bài thi trên google form: https://forms.gle/vWaXJ1X3ATxAtRbQ8
+
 1. **Scratch là gì?**
    - A) Một ngôn ngữ lập trình chuyên nghiệp
    - B) Một nền tảng lập trình kéo thả dành cho trẻ em
