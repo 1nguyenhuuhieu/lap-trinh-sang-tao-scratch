@@ -101,5 +101,5 @@ Dưới đây là đáp án và giải thích chi tiết cho 10 câu hỏi quiz 
    - **Giải thích**: Mục "Sound" chứa các khối lệnh liên quan đến âm thanh, chẳng hạn như "play sound" để phát âm thanh khi nhân vật thực hiện một hành động.
 
 ### 10. **Làm cách nào để thay đổi hình nền (backdrop) trong Scratch?**
-    - **Đáp án**: C) Chọn khối lệnh từ mục Looks
-    - **Giải thích**: Khối lệnh để thay đổi hình nền được tìm thấy trong mục "Looks" (Hiển thị), nơi bạn có thể điều chỉnh giao diện của nhân vật và sân khấu.
+   - **Đáp án**: C) Chọn khối lệnh từ mục Looks
+   - **Giải thích**: Khối lệnh để thay đổi hình nền được tìm thấy trong mục "Looks" (Hiển thị), nơi bạn có thể điều chỉnh giao diện của nhân vật và sân khấu.
