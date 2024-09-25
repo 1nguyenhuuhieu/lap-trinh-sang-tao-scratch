@@ -1,5 +1,7 @@
 Sản phẩm mẫu sử dụng cho **Bài giảng 1** của khóa học "Lập trình sáng tạo với Scratch". Sản phẩm này giúp học sinh làm quen với các khối lệnh cơ bản như di chuyển nhân vật, phát âm thanh, và thay đổi hình nền.
 
+Link sản phẩm mẫu: https://scratch.mit.edu/projects/1072552391
+
 ### Mô tả sản phẩm:
 - **Nhân vật chính**: Mèo Scratch.
 - **Hành động**: Mèo Scratch sẽ di chuyển từ trái sang phải, phát âm thanh "meow" khi di chuyển và thay đổi hình nền khi kết thúc di chuyển.
