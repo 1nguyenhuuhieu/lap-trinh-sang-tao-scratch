@@ -1,5 +1,6 @@
 10 câu hỏi quiz và đáp án cho **Buổi 2** với chủ đề câu lệnh điều kiện trong Scratch:
 
+https://forms.gle/T4XKLg8c4n4Y5KPw5
 ---
 
 ### **1. Câu lệnh điều kiện (if-else) trong lập trình dùng để làm gì?**
